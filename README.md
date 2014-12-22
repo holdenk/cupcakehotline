@@ -1,4 +1,4 @@
-cupcakehotline
-==============
+appengine-skeleton
+=============================
 
-App Engine port of Chap Ambrose's Pocket Hotline ( https://github.com/chap/pockethotline )
+This is a generated application from the appengine-skeleton archetype.
