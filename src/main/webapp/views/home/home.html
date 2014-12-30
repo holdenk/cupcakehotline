@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="views/home/home.css">
+
+<div class="row">  
+  <div class="col-xs-12">
+    <h1>{{ 'HOTLINE_DESCRIPTION' | translate}}</h1>
+    <h1>
+      <a ng-href="tel:{{'HOTLINE_NUMBER' | translate}}">
+        <span class="glyphicon glyphicon-earphone phone-icon" aria-hidden="true"></span>
+        {{ 'FORMATTED_HOTLINE_NUMBER' | translate}}
+      </a>
+    </h1>
+  </div> 
+</div>
+
