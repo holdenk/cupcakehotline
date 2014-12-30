@@ -4,13 +4,11 @@
 angular.module('cupcakeHotline', [
   'ngRoute',
   'pascalprecht.translate',
-  'cupcakeHotline.view1',
-  'cupcakeHotline.view2',
-  'cupcakeHotline.version',
+  'cupcakeHotline.views'
 ])
 
 .config(['$routeProvider', function($routeProvider) {
-  $routeProvider.otherwise({redirectTo: '/view1'});
+  $routeProvider.otherwise({redirectTo: '/home'});
 }])
 
 .config(function($translateProvider) {
