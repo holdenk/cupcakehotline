@@ -3,9 +3,7 @@
 // Declare app level module which depends on views, and components
 angular.module('cupcakeHotline', [
   'ngRoute',
-  'mgcrea.ngStrap',
   'pascalprecht.translate',
-
   'cupcakeHotline.view1',
   'cupcakeHotline.view2',
   'cupcakeHotline.version',

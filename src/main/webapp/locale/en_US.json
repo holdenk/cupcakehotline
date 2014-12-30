@@ -3,5 +3,13 @@
   "HOTLINE_NUMBER": "+18775658860",
   "FORMATTED_HOTLINE_NUMBER": "1-877-565-8860",
   "HOTLINE_DESCRIPTION": "Transgender Crisis Hotline",
-  "META_DESCRIPTION": "Transgender Crisis and Suicide Hotline"
+  "META_DESCRIPTION": "Transgender Crisis and Suicide Hotline",
+
+  "NAVBAR_ABOUT": "About",
+  "NAVBAR_VOLUNTEER": "Volunteer",
+  "NAVBAR_DASHBOARD": "Dashboard",
+  "NAVBAR_CALLS": "Calls",
+  "NAVBAR_OPERATORS": "Operators",
+  "NAVBAR_STATISTICS": "Statistics",
+  "NAVBAR_LOGIN": "Login"
 }
